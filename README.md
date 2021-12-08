@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tapicer&count_private=true&theme=radical&langs_count=10&layout=compact&exclude_repo=tesis)](https://github.com/anuraghazra/github-readme-stats)
-[![Jonathan's github stats](https://github-readme-stats.vercel.app/api?username=tapicer&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Jonathan's github stats](https://github-readme-stats.vercel.app/api?username=tapicer&count_private=true&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
